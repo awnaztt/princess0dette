@@ -653,9 +653,18 @@
             ]
           }
         ]
+      },
+      {
+        "id": 1,
+        "title": "Sistem Berbagi Dokumen melalui tautan sementara",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Dosen Praktikum",
     "threatTop": 0
   }
